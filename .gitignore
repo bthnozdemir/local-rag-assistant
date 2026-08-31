@@ -1,0 +1,15 @@
+# Python & Virtual Env
+venv/
+__pycache__/
+*.py[cod]
+
+# Data & Database
+data/index/*
+!data/index/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
