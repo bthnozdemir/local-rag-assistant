@@ -8,7 +8,8 @@ import numpy as np
 from rank_bm25 import BM25Okapi
 from sentence_transformers import CrossEncoder, SentenceTransformer
 
-from config import (
+# src/ klasörü altından içe aktarım
+from src.config import (
     BM25_CANDIDATES,
     CHUNK_OVERLAP,
     CHUNK_SIZE,

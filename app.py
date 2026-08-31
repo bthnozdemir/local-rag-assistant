@@ -12,10 +12,11 @@ torch.classes.__path__ = []
 import streamlit as st
 from openai import OpenAI
 
-from config import CHAT_MODEL, FOUNDRY_BASE_URL, MAX_CONTEXT_CHARS_PER_CHUNK, MAX_OUTPUT_TOKENS, RAW_DIR
-from document_loader import extract_document
-from quality_gate import clean_answer, validate_answer
-from rag_engine import clear_documents, delete_document, index_document, list_documents, retrieve
+# src/ dizininden modül içe aktarımları
+from src.config import CHAT_MODEL, FOUNDRY_BASE_URL, MAX_CONTEXT_CHARS_PER_CHUNK, MAX_OUTPUT_TOKENS, RAW_DIR
+from src.document_loader import extract_document
+from src.quality_gate import clean_answer, validate_answer
+from src.rag_engine import clear_documents, delete_document, index_document, list_documents, retrieve
 
 st.set_page_config(page_title="Field-Service Copilot", page_icon="🛠️", layout="wide")
 

@@ -1,0 +1,19 @@
+==================================================
+XYZ-5000 ENDÜSTRİYEL SANTRİFÜJ POMPA KILAVUZU
+==================================================
+
+1. Genel Özellikler ve Çalışma Parametreleri
+- Model: XYZ-5000-HD
+- Maksimum Çalışma Basıncı: 16 Bar
+- Çalışma Sıcaklık Aralığı: -10°C ile +110°C arası
+
+2. Periyodik Bakım ve Yağ Değişim Takvimi
+- Günlük Kontrol: Titreşim ve sızıntı kontrolü yapılmalıdır.
+- 500 Saatlik Bakım: Rulman gres yağı tazelenmelidir.
+- 2000 Saatlik Bakım: Mekanik salmastra değişimi ve ana yağ haznesi değişimi zorunludur.
+- Önerilen Yağ Tipi: ISO VG 68 Sentetik Endüstriyel Dişli Yağı.
+
+3. Garanti İstisnaları ve Kapsam Dışı Durumlar
+- Susuz (kuru) çalıştırma kaynaklı salmastra hasarları garanti kapsamı dışındadır.
+- Yetkisiz servis tarafından yapılan müdahaleler garantiyi geçersiz kılar.
+- Orijinal olmayan yedek parça (örneğin Parça Kodu: PRT-9921) kullanımı hasarlarda sorumluluk kabul edilmez.
